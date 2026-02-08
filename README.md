@@ -17,3 +17,7 @@ They include:
 > These variables are created via the Earth Engine Code Editor UI and are referenced directly in the script.
 
 I will further add images of maps with different layers added.
+
+<img width="1916" height="1079" alt="Screenshot 2026-02-07 230521" src="https://github.com/user-attachments/assets/6d892025-3a9e-4789-b783-ee8ad60ff6ef" />
+
+<img width="1098" height="714" alt="Screenshot 2026-02-07 225910" src="https://github.com/user-attachments/assets/3d21be12-549a-4d6f-b39d-45978d8e654a" />
