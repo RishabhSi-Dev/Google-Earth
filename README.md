@@ -34,3 +34,7 @@ This is the RGB image of Area of Interest as seen by the satellite
 Above is the NDWI Map layer, where non-water bodies are white in color.
 
 Next update will include the Sampled Map Layer using Random Forest algorithm.
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/d2004bda-fd0b-440a-96be-4046584db8d9" />
+Random Forest algorithm trained map layer. Brown means non-water body and blue means water body
+
+
