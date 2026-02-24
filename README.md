@@ -43,4 +43,5 @@ Surface Area (approx.) of calculated NDWI map printed on Google Earth Engine Con
 <img width="748" height="576" alt="NON-WATER" src="https://github.com/user-attachments/assets/85c28664-0e05-47e9-8c77-8496678a6cd0" />
 Non Water body graph shown on Inspector Tab by clicking on any non-water body
 
-
+<img width="736" height="576" alt="WATER" src="https://github.com/user-attachments/assets/2d2af021-622c-409e-bfd9-575ccbc8d5cd" />
+Watter Body graph shown on Inspector Tab clicking on any water body
