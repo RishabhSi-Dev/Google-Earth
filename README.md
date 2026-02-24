@@ -38,4 +38,9 @@ Next update will include the Sampled Map Layer using Random Forest algorithm.
 Random Forest algorithm trained map layer. Brown means non-water body and blue means water body
 
 <img width="753" height="303" alt="Screenshot 2026-02-15 204059" src="https://github.com/user-attachments/assets/f6ee08a5-4420-4060-aa40-ce00ae015bad" />
-Surface Area (approx.) of calculated NDWI map printed on Google Earth Enginec Console.
+Surface Area (approx.) of calculated NDWI map printed on Google Earth Engine Console.
+
+<img width="748" height="576" alt="NON-WATER" src="https://github.com/user-attachments/assets/85c28664-0e05-47e9-8c77-8496678a6cd0" />
+Non Water body graph shown on Inspector Tab by clicking on any non-water body
+
+
