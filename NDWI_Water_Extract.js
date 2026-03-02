@@ -31,4 +31,5 @@ var AreaStats = AreaImage.reduceRegion({
 
 var area = ee.Number(AreaStats.get('nd')).divide(1e6);
 print('Surface Water Area(sq km)');
+
 print(area);
